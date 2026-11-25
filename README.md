@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐦 Floppy Bird
 
 A lightweight browser-based Floppy Bird game built using HTML, CSS, and JavaScript Canvas.
@@ -51,3 +52,6 @@ Navigate the bird through obstacles by flapping and avoid colliding with pipes o
 ---
 
 Built with ❤️ and JavaScript.
+=======
+# floppy-bird
+>>>>>>> 93fe1137662db49f611ab4901080af3a8d65355e
